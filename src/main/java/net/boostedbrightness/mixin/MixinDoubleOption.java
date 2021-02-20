@@ -4,8 +4,8 @@ import net.boostedbrightness.BoostedBrightness;
 import net.minecraft.text.MutableText;
 import net.minecraft.text.Text;
 import net.minecraft.text.TranslatableText;
-import net.minecraft.client.options.DoubleOption;
-import net.minecraft.client.options.GameOptions;
+import net.minecraft.client.option.DoubleOption;
+import net.minecraft.client.option.GameOptions;
 
 import java.util.function.BiConsumer;
 import java.util.function.BiFunction;
